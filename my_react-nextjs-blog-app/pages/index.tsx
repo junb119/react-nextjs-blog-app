@@ -14,7 +14,7 @@ const Home = ({
 }) => {
   // console.log(allPostsData);
   return (
-    <div>
+    <div className={homeStyles.container}>
       <Head>
         <title>Jun Beom</title>
       </Head>
